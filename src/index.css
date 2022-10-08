@@ -1,0 +1,17 @@
+@font-face {
+  font-family: sora;
+  src: url("./Asset/fonts/Sora/static/Sora-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  font-size: 14px;
+  color: #3F3E3E;
+  font-family: sora;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
